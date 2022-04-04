@@ -6,8 +6,6 @@
 
 Kommasani Sita Rami Reddy
 
-Matte Subbarao
-
 ## What is the purpose of creating this project?
 
 In present covid situation so many are suffering with covid 19 virus.If suddenly they are infected with virus they didn't know in which hospital oxygen beds are available,what are the vaccination hospitals near to their place etc,.They need not fear at that time.Using this bot they can find out what are the best hospitals.So that's why we have to come with this project "Covid-19 Chatbot".
